@@ -1,0 +1,6 @@
+torch~=1.8.1+cu111
+scikit-learn~=1.0.2
+einops~=0.6.1
+numpy~=1.21.6
+scipy~=1.7.3
+h5py~=3.8.0
